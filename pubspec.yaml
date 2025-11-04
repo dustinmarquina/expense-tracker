@@ -1,0 +1,22 @@
+name: expense_tracker
+description: A simple offline expense tracker using Hive and fl_chart.
+version: 0.1.0
+publish_to: "none"
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  fl_chart: ^0.60.0
+  intl: ^0.18.0
+  uuid: ^3.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
