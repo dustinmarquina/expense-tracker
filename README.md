@@ -1,5 +1,12 @@
 # Expense Tracker (Offline)
 
+DEMO
+
+
+https://github.com/user-attachments/assets/9094fcb4-f361-4ce4-8ff2-28b05284cdef
+
+
+
 A small Flutter app that records daily expenses locally using Hive and visualizes statistics using fl_chart.
 
 Features
